@@ -15,4 +15,5 @@ _SentinelCache/
 *.ddc
 
 # Built data for maps
-# *_BuiltData.uasset
+
+*_BuiltData.uasset
